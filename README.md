@@ -42,7 +42,7 @@
 
 ### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,html,css,bash&perline=8" height="64" /></br>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,rust,go,java,cpp,html,css,bash&perline=8" height="64" /></br>
 </p>
 
 ### **Frontend**
