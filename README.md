@@ -138,8 +138,6 @@
     </td>
   </tr>
 </table>
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=yohanness16&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true" width="100%" />
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yohanness16&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=6366f1&line=8b5cf6&point=e76f51&area=true&area_color=6366f1" width="100%" />
 </div>
