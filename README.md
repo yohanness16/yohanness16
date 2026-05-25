@@ -14,6 +14,7 @@
 <p>
   <img src="https://img.shields.io/badge/🏛️-AASTU%20%7C%20Electrical%20%26%20Computer%20Engineering-06b6d4?style=for-the-badge&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/📍-Addis%20Ababa%2C%20Ethiopia-10b981?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/🎓%20GPA-3.8%20%2F%204.0-6366f1?style=for-the-badge&labelColor=0f172a" />
 </p>
 <!-- Profile Metrics -->
 <p>
@@ -36,7 +37,10 @@
   </picture>
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Arsenal
+---
+
+## ⚙️ Tech Arsenal
+
 <details open>
 <summary><b>🚀 Languages</b></summary>
 <br>
@@ -114,7 +118,10 @@
 </p>
 </details>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 <!-- Stats Grid -->
 <table width="100%">
@@ -142,14 +149,22 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yohanness16&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=6366f1&line=8b5cf6&point=e76f51&area=true&area_color=6366f1" width="100%" />
 </div>
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Highlights
+---
+
+## 🏆 Highlights
+
 <div align="center">
-Table
-📦 Repositories	👥 Network	🔥 Streak	🎯 Focus
-19 Public Repos	Growing Community	Active Daily	Full Stack + Embedded
+
+| 📦 Repositories | 👥 Network | 🔥 Streak | 🎯 Focus |
+|:-:|:-:|:-:|:-:|
+| 19 Public Repos | Growing Community | Active Daily | Full Stack + Embedded |
+
 </div>
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Currently Exploring
+---
+
+## 🔭 Currently Exploring
+
 <div align="center">
 <table>
   <tr>
@@ -175,7 +190,10 @@ Table
 </table>
 </div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me
+---
+
+## 📬 Connect With Me
+
 <div align="center">
 <!-- Social Cards -->
 <a href="mailto:yohanness1621@gmail.com">
@@ -199,7 +217,6 @@ Table
 <!-- Dynamic Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Engineers%20are%20not%20just%20builders%20--%20we%20are%20translators%20between%20human%20needs%20and%20technical%20possibility.&author=Yohannes%20Desalegn" width="80%" />
 
-
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=30&fontColor=e2e8f0&animation=twinkling&fontAlignY=75" width="100%" />
 
@@ -207,17 +224,3 @@ Table
 <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-6366f1?style=for-the-badge&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0f172a" />
 </div>
-<!--
-**yohanness16/yohanness16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
