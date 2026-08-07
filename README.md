@@ -14,7 +14,7 @@
 <p>
   <img src="https://img.shields.io/badge/🏛️-AASTU%20%7C%20Electrical%20%26%20Computer%20Engineering-06b6d4?style=for-the-badge&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/📍-Addis%20Ababa%2C%20Ethiopia-10b981?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/🎓%20GPA-3.8%20%2F%204.0-6366f1?style=for-the-badge&labelColor=0f172a" />
+ 
 </p>
 <!-- Profile Metrics -->
 <p>
